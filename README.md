@@ -1,15 +1,10 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang.netlify.app/">Asad Raza</a></h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/asadrazajutt/">LinkedIn</a> •
-  <a href="https://twitter.com/AsadRazajutt">Twitter</a>
-</p>
+<h1 align="center">Hi 👋, I'm Asad Raza</h1>
+<h3 align="center">Principal Software Engineer <i>at</i> Dukan.pk</h3>
 
-**Talking about Personal Stuffs:** 
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: asadrazajutt1@gmail.com.
 
-***
-
+- 🌱 **Currently learning**: **TypeScript**, **Node.js**, **Docker**
+- 💼 **Currently working** in the **Corporate IT sector**, delivering high-quality solutions and collaborating on large-scale projects.
+- 📫 **Reach out to me**: [asadrazajutt1@gmail.com](mailto:asadrazajutt1@gmail.com)
  <br>
 
 📈 My Github stats <br />
