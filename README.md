@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Raza</h1>
-<h3 align="center">Principal Software Engineer <i>at</i> Dukan.pk</h3>
+<h3 align="center">Software Engineer <i>at</i> Dukan.pk</h3>
 
 
 - 🌱 **Currently learning**: **TypeScript**, **Node.js**, **Docker**
